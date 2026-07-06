@@ -119,5 +119,5 @@ prerogative, some things may go downhill, some people might get shut out, and ev
 And that's why I am not a futurist. I don't sell my predictions about the future. A couple months ago, I was feeling a 
 little pissed for thinking the United States would have given me the opportunity to work at NASA. SpaceX and Blue Origin 
 are apparently better than NASA nowadays. So yeah... the public/private sector divide and these sensationalist A.I. A.I. 
-bullshit isn't satisfying me. But it's not about me... it's about the guy in the spotlight at the center of the stage. 
+bullshit aren't satisfying me. But it's not about me... it's about the guy in the spotlight at the center of the stage. 
 I understand and accept that! 
