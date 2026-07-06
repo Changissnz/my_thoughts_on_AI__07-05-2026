@@ -13,8 +13,8 @@ all-knowing person that is so empathetic to the individual plights of everyone i
 I'm saying that is what I believe based on personal experience and the anecdotes I've read. I 
 do not think these times are politically stable. I think the deterioration and dishonesty of 
 social media companies that came to light about 12 years ago (yet somehow, they are still thriving), 
-an industry that conveniently leads to artificial intelligence due to so much data the organization 
-collects on individuals, does not bode well for the emerging welfare under artificial intelligence. 
+an industry that conveniently leads to artificial intelligence due to so much data the organizations 
+collect on individuals, does not bode well for the emerging welfare under artificial intelligence. 
 I will go a little in-depth into why I believe this, as to dispel the readers' belief that I am merely 
 being a "negative nancy", a cynic. 
 
