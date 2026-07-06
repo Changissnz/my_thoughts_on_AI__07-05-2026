@@ -25,7 +25,7 @@ is not entirely for national security. Let's entertain that. Commercial objectiv
 the lines fall into the benefit or subversion of national security. Without having to write so many things 
 about commercial objectives, the painfully obvious implication of this is that all is lost for most people. 
 Somewhere through the process of commercializing information, after making use of the electrical grid, the 
-money becames the talking point of a few rare winners. And everyone else is left wondering, "WTF is the 
+money becomes the talking point of a few rare winners. And everyone else is left wondering, "WTF is the 
 financial benefit from this?" That was what went on with social media after its golden age decade. It turned from 
 a forum-centric culture into a platform for businesses and hyper-political messaging. By certain regards, it 
 sure seemed that the social media platforms were used for purposes a little more militaristic and political 
