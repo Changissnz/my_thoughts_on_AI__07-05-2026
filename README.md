@@ -88,7 +88,7 @@ but what led up to that? Surely, with these intricate and dynamic systems of all
 first shot. This anecdote of mine leads up to a point I'd like to make about artificial intelligence applications. Thus far, most of 
 the A.I. applications I have knowledge of rests on database systems and clerical work. For database systems, the possibilities are 
 theoretically endless but technically constrained. The database systems are applied into new forms of Big Television, predominantly 
-in the mass consumer context. I know this cheapens the truth, but the truth with regards to most of these A.I. applications are 
+in the mass consumer context. I know this cheapens the truth, but the truth with regards to most of these A.I. applications is 
 blackbox. Seriously. What some organizations do is open-source the "framework". Yeah...yeah... open-sourcing the framework that 
 requires at least a $10K server would really help the typical person. It does, but very very far down the line, when the person 
 has actually learned all the technicals behind it. 
