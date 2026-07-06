@@ -6,8 +6,7 @@ My thoughts on the "AI" industry, along with personal asides, as of this day, 7/
 
 Based on my years since the end of 2019, and the experience culminating up to this point in 
 time, especially in the last year, I do not have favorable views of multiple American industries 
-and institutions. Now I will go down this list of culprits, and describe the faults of each of 
-them. 
+and institutions.
 
 There's a stagnation occurring for many demographics in the nation. I'm not saying I'm an 
 all-knowing person that is so empathetic to the individual plights of everyone in this country. 
