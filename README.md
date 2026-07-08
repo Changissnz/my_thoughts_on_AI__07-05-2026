@@ -113,7 +113,7 @@ writing history.
 Sympathizing with demographics, such as immigrant groups and traditionalists, against A.I. would not go as happily ever 
 after as planned. These technology trends are supposed to facilitate greater capabilities. What I see is a marked decline 
 in overall cooperation, in line with "replacement theory". Practically every sector, from manufacturing to military 
-capabilities, are to benefit from adoption of A.I. So I think things will stay relatively civil with the ongoing trends 
+capabilities, is to benefit from adoption of A.I. So I think things will stay relatively civil with the ongoing trends 
 of automation, especially if automation was the primary decider. When some human beings step into the picture with their 
 prerogative, some things may go downhill, some people might get shut out, and even uglier things may occur. Who knows? 
 And that's why I am not a futurist. I don't sell my predictions about the future. A couple months ago, I was feeling a 
